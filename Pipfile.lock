@@ -103,11 +103,11 @@
         },
         "faker": {
             "hashes": [
-                "sha256:3e737576ff50cd98dfed643d6b3fd63194eca9df00e7f595960fe7da5220723d",
-                "sha256:b9e81e9da3dda3ac54189e034cfb943de576a259caeb226ccab43fcbcf6a7891"
+                "sha256:6714c153433086681b26e5c95ee314ee0fcd45ec05f2426097543dd4c70789a6",
+                "sha256:810859626d19e62a2a13aa4a08d59ada131f0522431eec163b09b6df147a25b9"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==8.11.0"
+            "version": "==8.12.1"
         },
         "idna": {
             "hashes": [
@@ -185,11 +185,11 @@
         },
         "pyleniumio": {
             "hashes": [
-                "sha256:52d2550055127ec897fc2ec26dae28d58ccb8df87ad26ff3112f80e05c870fc4",
-                "sha256:d05e4b2b83893db863b976b304aa55e40dd8cb2b558e66e3390c0c318f6586fd"
+                "sha256:58553695beac50256a3850c6617fd5ed246660122c6549501c622ce4ead8612a",
+                "sha256:8a4250e1c45d9a7e3c09f14f0d2cf49c5d82c623b6a4388dad355ba1f23871c8"
             ],
             "index": "pypi",
-            "version": "==1.12.8"
+            "version": "==1.13.0"
         },
         "pyparsing": {
             "hashes": [

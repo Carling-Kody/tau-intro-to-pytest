@@ -20,7 +20,7 @@ def test_one_plus_two():
 def test_divide_by_zero():
     with pytest.raises(ZeroDivisionError) as e:
         num = 1 / 0
-    assert 'division by zero' in str(e.value)
+    assert "division by zero" in str(e.value)
 
 
 # -------------------------------------------------------------------------------------------------
@@ -54,10 +54,10 @@ products = [
     (0, 99, 0),  # zero
     (3, -4, -12),  # positive by negative
     (-5, -5, 25),  # negative by negative
-    (2.5, 6.7, 16.75)  # floats
+    (2.5, 6.7, 16.75),  # floats
 ]
 
 
-@pytest.mark.parametrize('a, b, product', products)
+@pytest.mark.parametrize("a, b, product", products)
 def test_multiplication(a, b, product):
     assert a * b == product
