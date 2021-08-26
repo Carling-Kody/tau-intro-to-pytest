@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pyleniumio = "*"
+pytest-html = "*"
+pytest-cov = "*"
+pytest-bdd = "*"
 
 [dev-packages]
 
